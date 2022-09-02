@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lougoncharenko
-- 👀 I’m interested in gaining skills and creating projects to become a web developer or a software engineer
-- 🌱 I’m currently learning responsive web designs and Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in gaining skills and creating projects to become a Software engineer
+- 🌱 I’m currently learning programming basics,responsive web designs and python
 - 📫 How to reach me: email me at louisa.gonch@gmail.com
 
 <!---
