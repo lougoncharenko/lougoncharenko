@@ -19,7 +19,7 @@ class Louisa  {
     
     this.tools = {
             "languages" : ["Python", "HTML", "CSS", "JavaScript"],
-            "frameworks" : ["REACT", "Flask", "MongoDB"]
+            "frameworks" : ["REACT", "React-Native", "Flask", "MongoDB"]
     };
   }
 }
