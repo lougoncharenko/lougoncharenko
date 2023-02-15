@@ -18,8 +18,8 @@ class Louisa  {
     };
     
     this.tools = {
-            "languages" : ["Python", "HTML", "CSS", "JavaScript"],
-            "frameworks" : ["REACT", "React-Native", "Flask", "MongoDB"]
+            "languages" : ["Python", "Ruby", "SQL" "HTML", "CSS", "JavaScript"],
+            "frameworks" : ["REACT", "React-Native", "Flask", "MongoDB", "RAILS"]
     };
   }
 }
